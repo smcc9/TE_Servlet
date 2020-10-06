@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author Victor
- */
 @WebServlet(name = "UsoSesion", urlPatterns = {"/UsoSesion"})
 public class UsoSesion extends HttpServlet {
 

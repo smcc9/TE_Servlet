@@ -14,10 +14,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Victor
- */
 @WebServlet(name = "UsoCookies", urlPatterns = {"/UsoCookies"})
 public class UsoCookies extends HttpServlet {
 

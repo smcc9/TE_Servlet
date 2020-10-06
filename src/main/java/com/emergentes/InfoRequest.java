@@ -13,10 +13,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Victor
- */
 @WebServlet(name = "InfoRequest", urlPatterns = {"/InfoRequest"})
 public class InfoRequest extends HttpServlet {
 
